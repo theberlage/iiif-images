@@ -18,3 +18,5 @@ Collection of static level 0 images
 
 #### Step 2: Create IIIF derrivative
 - [IIIF Tiler](https://github.com/glenrobson/iiif-tiler)
+- Change info.json `@id`
+  - Path: `https://theberlage.github.io/iiif-images/[subfolder]\[image-folder]` 
