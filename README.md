@@ -13,6 +13,8 @@ Collection of static level 0 images
 - Activate the add-on
 - Click 'Dezoomify!'
 - Save image locally after download has completed
+- Convert png to jpg without compression
+  - ImageMagick command: `convert -quality 100 filename.png filename.jpg`
 
 #### Step 2: Create IIIF derrivative
 - [IIIF Tiler](https://github.com/glenrobson/iiif-tiler)
