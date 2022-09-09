@@ -14,5 +14,5 @@ Collection of static level 0 images
 - Click 'Dezoomify!'
 - Save image locally after download has completed
 
-### Step 2: Create IIIF derrivative
+#### Step 2: Create IIIF derrivative
 - [IIIF Tiler](https://github.com/glenrobson/iiif-tiler)
