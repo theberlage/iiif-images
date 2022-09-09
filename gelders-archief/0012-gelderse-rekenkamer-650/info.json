@@ -26,7 +26,7 @@
   } ],
   "profile" : "http://iiif.io/api/image/2/level0.json",
   "width" : 20499,
-  "@id" : "https://theberlage.github.io/iiif-images/gelders-archief/gelders-archief-0012-gelderse-rekenkamer-650",
+  "@id" : "https://theberlage.github.io/iiif-images/gelders-archief/0012-gelderse-rekenkamer-650",
   "@context" : "http://iiif.io/api/image/2/context.json",
   "height" : 3273
 }
