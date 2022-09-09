@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 641,
+    "height" : 103
+  }, {
+    "width" : 1282,
+    "height" : 205
+  }, {
+    "width" : 2563,
+    "height" : 410
+  }, {
+    "width" : 5125,
+    "height" : 819
+  }, {
+    "width" : 10250,
+    "height" : 1637
+  }, {
+    "width" : 20499,
+    "height" : 3273
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 20499,
+  "@id" : "https://theberlage.github.io/iiif-images/gelders-archief/gelders-archief-0012-gelderse-rekenkamer-650",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 3273
+}
